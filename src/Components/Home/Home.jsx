@@ -19,8 +19,8 @@ export const Home = () => {
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-content: center;
-    gap: 30px;
-    padding: 40px;
+    gap: 20px;
+    padding: 30px;
   `;
 
   const handleSort = (val) => {
