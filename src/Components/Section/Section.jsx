@@ -47,12 +47,12 @@ export const Section = () => {
   }, [name]);
 
   const Main = styled.div`
-    /* Apply some responsive styling to children */
+  
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-content: center;
-    gap: 30px;
+    gap: 20px;
     padding: 40px;
   `;
   return (
