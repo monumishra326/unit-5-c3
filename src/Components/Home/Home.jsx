@@ -14,7 +14,7 @@ export const Home = () => {
   }, []);
 
   const Main = styled.div`
-    /* Apply some responsive styling to children */
+   
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
