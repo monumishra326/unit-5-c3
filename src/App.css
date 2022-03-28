@@ -6,7 +6,8 @@
 }
 
 .bookCard {
-  background-color: rgb(300, 151, 191);
+  background-color: blue;
+  color:white;
   margin: 23px;
   width: 250px;
   box-shadow: rgba(1, 1, 1, 0.24) 0px 3px 8px;
@@ -15,7 +16,8 @@
 }
 
 .bookCard:hover {
-  box-shadow: rgba(2, 5, 0, 0.16) 0px 1px 4px, rgb(53, 53, 53) 0px 0px 0px 3px;
+  background-color: blue;
+  color:white;
 }
 .bookCard img {
   width: 100%;
@@ -30,6 +32,8 @@
   padding: 10px 20px;
   cursor: pointer;
   background-color:red;
+  color:white;
+  font-size:12px;
 }
 
 .navbar button {
@@ -37,6 +41,8 @@
   padding: 6px 10px;
   cursor: pointer;
   background-color:red;
+  color:white;
+  font-size:12px;
 }
 
 .title,
